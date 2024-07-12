@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "55bc3d5d-980c-332c-bf1f-0519b374c7b8",
+    "name": "https://github.com/blissiorg/gitcraft",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "78965dd3-9507-3116-a9a4-ff1cc4149680",
+    "name": "il2po",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b4201e8f-8993-38fc-ae38-653717e9c1f8",
+    "name": "Kenius22",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dddf5f8b-80fa-3958-9c2f-1052335e32c7",
+    "name": "WarmGlow",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
