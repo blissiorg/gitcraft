@@ -1,0 +1,52 @@
+[17:09:14] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.16.0
+[17:09:15] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.0
+	   \-- mixinextras 0.4.0
+	- java 21
+	- minecraft 1.16.5
+[17:09:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gitcraft/libraries/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:09:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:09:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:09:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:09:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:09:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:09:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:09:20] [main/INFO]: Reloading ResourceManager: Default
+[17:09:21] [Worker-Main-4/INFO]: Loaded 7 recipes
+[17:09:21] [Worker-Main-4/INFO]: Loaded 927 advancements
+[17:09:23] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:09:23] [Server thread/INFO]: Loading properties
+[17:09:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:09:23] [Server thread/INFO]: Generating keypair
+[17:09:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:09:23] [Server thread/INFO]: Using epoll channel type
+[17:09:23] [Server thread/INFO]: Preparing level "world"
+[17:09:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:29] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[17:09:29] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:09:29] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:09:29] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[17:09:29] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[17:09:29] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[17:09:30] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:09:30] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:09:31] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[17:09:31] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[17:09:32] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[17:09:32] [Server thread/INFO]: Preparing spawn area: 85%
+[17:09:33] [Worker-Main-4/INFO]: Preparing spawn area: 90%
+[17:09:33] [Worker-Main-5/INFO]: Preparing spawn area: 93%
+[17:09:33] [Server thread/INFO]: Time elapsed: 9913 ms
+[17:09:33] [Server thread/INFO]: Done (10.067s)! For help, type "help"
+[17:18:24] [User Authenticator #1/INFO]: Disconnecting /127.198.153.38:36641: Failed to verify username!
+[17:18:24] [User Authenticator #1/ERROR]: Username 'WarmGlow' tried to join with an invalid session
+[17:18:24] [Server thread/INFO]: /127.198.153.38:36641 lost connection: Failed to verify username!
+[17:38:16] [User Authenticator #2/INFO]: Disconnecting /127.198.153.38:53719: Failed to verify username!
+[17:38:16] [User Authenticator #2/ERROR]: Username 'WarmGlow' tried to join with an invalid session
+[17:38:16] [Server thread/INFO]: /127.198.153.38:53719 lost connection: Failed to verify username!

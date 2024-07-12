@@ -1,0 +1,7 @@
+curl -OJ https://meta.fabricmc.net/v2/versions/loader/1.16.5/0.16.0/1.0.1/server/jar
+java -Xmx2G -jar fabric-server-mc.1.16.5-loader.0.16.0-launcher.1.0.1.jar nogui
+ -Xmx10000M -Xms10000M
+curl -SsL https://playit-cloud.github.io/ppa/key.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/playit.gpg >/dev/null
+echo "deb [signed-by=/etc/apt/trusted.gpg.d/playit.gpg] https://playit-cloud.github.io/ppa/data ./" | sudo tee /etc/apt/sources.list.d/playit-cloud.list
+sudo apt update
+sudo apt install playit
